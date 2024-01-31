@@ -1,0 +1,47 @@
+* {
+  background-color: rgb(228, 207, 180);
+  margin: 0;
+}
+p {
+  font-size: 40px;
+  text-indent: 80px;
+  text-align: justify;
+}
+.photo1 {
+  width: 500px;
+  border: 10px;
+}
+.photo1 img {
+  height: 700px;
+  width: 500px;
+}
+h6 {
+  font-size: 70px;
+  font-style: oblique;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 3000px;
+  height: 100px;
+  background-color: grey;
+}
+.text {
+  vertical-align: text-top;
+  width: 1500px;
+  border: 10px;
+}
+.quotes {
+  vertical-align: text-top;
+  text-align: center;
+  font-style: oblique;
+  font-size: 40px;
+  border: 10px solid black;
+
+  width: 1000px;
+}
+table {
+  width: 3000px;
+}
+.quotes div {
+  margin-bottom: 170px;
+}
